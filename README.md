@@ -71,6 +71,18 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/224d631d-42b0-44a3-a71f-d9523b7ae253/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified — Professional Cloud Architect (verify on Credly)" /></a>
+
+*Previously certified:* <img src="https://img.shields.io/badge/Professional%20Cloud%20Security%20Engineer-6E7681?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Security Engineer (past)" /> <img src="https://img.shields.io/badge/Professional%20Cloud%20Database%20Engineer-6E7681?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Database Engineer (past)" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">

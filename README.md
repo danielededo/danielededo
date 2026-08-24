@@ -41,7 +41,7 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielededo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Daniele's GitHub stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielededo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="170" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Daniele's GitHub stats" width="49%" /> <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
 
 </div>
 
@@ -56,16 +56,6 @@ Always eager to explore new technologies and paradigms, automate everything that
 | 📐 **[scaffold](https://github.com/danielededo/scaffold)** | Language-agnostic template baseline for personal projects: licensing, governance, docs and contribution workflow | <img src="https://img.shields.io/badge/Template-6E7681?style=flat-square&logo=github&logoColor=white" alt="Template" /> |
 | 🔮 **[infinity-spheres](https://github.com/danielededo/infinity-spheres)** | Single-file Three.js scene: a glass tube swept along a self-intersecting curve, with marbles that bounce elastically through the open junctions | <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> |
 | 💰 **cashato** | 🚧 Coming soon — landing on GitHub shortly | <img src="https://img.shields.io/badge/WIP-FFA500?style=flat-square" alt="Work in progress" /> |
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=danielededo&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
 
 ---
 

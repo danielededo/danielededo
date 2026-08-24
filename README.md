@@ -41,7 +41,7 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielededo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Daniele's GitHub stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielededo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=danielededo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Daniele's GitHub stats" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielededo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" height="170" />
 
 </div>
 
@@ -63,7 +63,7 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=danielededo&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=danielededo&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
 
 </div>
 

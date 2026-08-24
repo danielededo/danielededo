@@ -41,7 +41,7 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 <div align="center">
 
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Daniele's GitHub stats" width="49%" /> <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repository" width="49%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Daniele's GitHub stats" width="49%" /> <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
 
 </div>
 

@@ -19,4 +19,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 1
-          EXCLUDE: "SagradaFamilia,HYP-Abruzzo,Tower-of-hanoi-CG,Gamified-marketing-application-DB2,Internet_of_things_Project,CuzzucoliDeDominicis"
+          EXCLUDE_REPOS: "SagradaFamilia,HYP-Abruzzo,Tower-of-hanoi-CG,Gamified-marketing-application-DB2,Internet_of_things_Project,CuzzucoliDeDominicis"

@@ -23,7 +23,7 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 **🐳 Containers & Runtime**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" alt="containerd" /> <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" /> <img src="https://img.shields.io/badge/Kaniko-FFA600?style=for-the-badge" alt="Kaniko" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" alt="containerd" /> <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
 
 **🏗️ IaC & GitOps**
 

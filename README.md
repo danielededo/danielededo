@@ -102,14 +102,6 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 ---
 
-## 🔭 Currently Working On
-
-- 🏃 **activity-hub** — MVP launch
-- ♟️ **gambit** — multiplayer backend
-- 💰 **cashato** — coming soon
-
----
-
 ## 🤝 Connect
 
 <div align="center">

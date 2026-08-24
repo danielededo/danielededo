@@ -7,6 +7,7 @@
 **Cloud Architect @ Primaton | GCP | Kubernetes | DevOps**
 
 I design and run cloud platforms on Google Cloud — Kubernetes-based infrastructure, GitOps delivery pipelines, and developer platforms that make shipping software boring (in the best way). 🛠️
+Always eager to explore new technologies and paradigms, automate everything that can be automated, and keep evolving as an engineer. 🚀
 
 <img src="https://komarev.com/ghpvc/?username=danielededo&color=blueviolet&style=for-the-badge" alt="Profile views" />
 

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=620&height=60&color=70A5FD&lines=Hi%2C+I'm+Daniele+Dedo+%F0%9F%91%8B;Cloud+Architect+%40+Primaton;GCP+%C2%B7+Kubernetes+%C2%B7+DevOps" alt="Typing intro: Hi, I'm Daniele Dedo — Cloud Architect @ Primaton — GCP · Kubernetes · DevOps" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=620&height=60&color=70A5FD&lines=Hi%2C+I'm+Daniele+De+Dominicis+%F0%9F%91%8B;Cloud+Architect+%40+Primaton;GCP+%C2%B7+Kubernetes+%C2%B7+DevOps" alt="Typing intro: Hi, I'm Daniele De Dominicis — Cloud Architect @ Primaton — GCP · Kubernetes · DevOps" />
 
-# Daniele Dedo
+# Daniele De Dominicis
 
 **Cloud Architect @ Primaton | GCP | Kubernetes | DevOps**
 
@@ -30,7 +30,7 @@ I design and run cloud platforms on Google Cloud — Kubernetes-based infrastruc
 
 **🗄️ Data**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 ---
 

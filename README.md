@@ -71,11 +71,14 @@ Always eager to explore new technologies and paradigms, automate everything that
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danielededo&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielededo/danielededo/output/github-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/danielededo/danielededo/output/github-snake.svg" />
+</picture>
 
 </div>
 

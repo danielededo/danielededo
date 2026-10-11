@@ -6,10 +6,18 @@ I build cloud platforms on Google Cloud that make shipping software boring, in t
 Kubernetes-based infrastructure, GitOps delivery pipelines and developer platforms.
 MSc in Computer Science and Engineering at Politecnico di Milano.
 
-**Works with** Google Cloud · Kubernetes · Helm · Terraform / OpenTofu · Argo CD · Tekton · Python · Go
-
 **Certified** [Google Cloud Professional Cloud Architect](https://www.credly.com/badges/224d631d-42b0-44a3-a71f-d9523b7ae253/public_url)
 <sub>previously Professional Cloud Security Engineer, Cloud Database Engineer and Data Engineer</sub>
+
+#### Stack
+
+| | |
+| --- | --- |
+| Cloud & orchestration | <img src="assets/stack/google-cloud.svg" alt="Google Cloud" height="20" /> <img src="assets/stack/kubernetes.svg" alt="Kubernetes" height="20" /> <img src="assets/stack/helm.svg" alt="Helm" height="20" /> <img src="assets/stack/kustomize.svg" alt="Kustomize" height="20" /> |
+| Containers & runtime | <img src="assets/stack/docker.svg" alt="Docker" height="20" /> <img src="assets/stack/cloud-run.svg" alt="Cloud Run" height="20" /> |
+| IaC, GitOps & CI/CD | <img src="assets/stack/terraform.svg" alt="Terraform" height="20" /> <img src="assets/stack/opentofu.svg" alt="OpenTofu" height="20" /> <img src="assets/stack/pulumi.svg" alt="Pulumi" height="20" /> <img src="assets/stack/argo-cd.svg" alt="Argo CD" height="20" /> <img src="assets/stack/tekton.svg" alt="Tekton" height="20" /> <img src="assets/stack/github-actions.svg" alt="GitHub Actions" height="20" /> |
+| Languages & frameworks | <img src="assets/stack/python.svg" alt="Python" height="20" /> <img src="assets/stack/go.svg" alt="Go" height="20" /> <img src="assets/stack/typescript.svg" alt="TypeScript" height="20" /> <img src="assets/stack/fastapi.svg" alt="FastAPI" height="20" /> <img src="assets/stack/react.svg" alt="React" height="20" /> |
+| Data | <img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="20" /> <img src="assets/stack/mysql.svg" alt="MySQL" height="20" /> <img src="assets/stack/bigquery.svg" alt="BigQuery" height="20" /> <img src="assets/stack/redis.svg" alt="Redis" height="20" /> |
 
 #### Side projects
 

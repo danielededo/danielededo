@@ -1,110 +1,29 @@
-<div align="center">
+### Daniele De Dominicis
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=620&height=60&color=70A5FD&lines=Hi%2C+I'm+Daniele+De+Dominicis+%F0%9F%91%8B;Cloud+Architect+%40+Primaton;GCP+%C2%B7+Kubernetes+%C2%B7+DevOps" alt="Typing intro: Hi, I'm Daniele De Dominicis — Cloud Architect @ Primaton — GCP · Kubernetes · DevOps" />
+Cloud Architect at [Primaton](https://primaton.it/), based in Milan.
 
-# Daniele De Dominicis
+I build cloud platforms on Google Cloud that make shipping software boring, in the best way:
+Kubernetes-based infrastructure, GitOps delivery pipelines and developer platforms.
+MSc in Computer Science and Engineering at Politecnico di Milano.
 
-**Cloud Architect @ [Primaton](https://primaton.it/) | GCP | Kubernetes | DevOps**
+**Certified** [Google Cloud Professional Cloud Architect](https://www.credly.com/badges/224d631d-42b0-44a3-a71f-d9523b7ae253/public_url)
+<sub>previously Professional Cloud Security Engineer, Cloud Database Engineer and Data Engineer</sub>
 
-I design and run cloud platforms on Google Cloud — Kubernetes-based infrastructure, GitOps delivery pipelines, and developer platforms that make shipping software boring (in the best way). 🛠️
-Always eager to explore new technologies and paradigms, automate everything that can be automated, and keep evolving as an engineer. 🚀
+#### Stack
 
-</div>
+| | |
+| --- | --- |
+| Cloud & orchestration | <img src="assets/stack/google-cloud.svg" alt="Google Cloud" height="20" /> <img src="assets/stack/kubernetes.svg" alt="Kubernetes" height="20" /> <img src="assets/stack/helm.svg" alt="Helm" height="20" /> <img src="assets/stack/kustomize.svg" alt="Kustomize" height="20" /> |
+| Containers & runtime | <img src="assets/stack/docker.svg" alt="Docker" height="20" /> <img src="assets/stack/cloud-run.svg" alt="Cloud Run" height="20" /> |
+| IaC, GitOps & CI/CD | <img src="assets/stack/terraform.svg" alt="Terraform" height="20" /> <img src="assets/stack/opentofu.svg" alt="OpenTofu" height="20" /> <img src="assets/stack/pulumi.svg" alt="Pulumi" height="20" /> <img src="assets/stack/argo-cd.svg" alt="Argo CD" height="20" /> <img src="assets/stack/tekton.svg" alt="Tekton" height="20" /> <img src="assets/stack/github-actions.svg" alt="GitHub Actions" height="20" /> |
+| Languages & frameworks | <img src="assets/stack/python.svg" alt="Python" height="20" /> <img src="assets/stack/go.svg" alt="Go" height="20" /> <img src="assets/stack/typescript.svg" alt="TypeScript" height="20" /> <img src="assets/stack/fastapi.svg" alt="FastAPI" height="20" /> <img src="assets/stack/react.svg" alt="React" height="20" /> |
+| Data | <img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="20" /> <img src="assets/stack/mysql.svg" alt="MySQL" height="20" /> <img src="assets/stack/bigquery.svg" alt="BigQuery" height="20" /> <img src="assets/stack/redis.svg" alt="Redis" height="20" /> |
 
----
+#### Side projects
 
-## 🧰 Tech Stack
+- [**spectral**](https://github.com/danielededo/spectral): browser extension that shows what runs behind the site in your tab (CDN, hosting, tech stack, network owner, DNS and email providers), each finding with its evidence
+- [**cashato**](https://github.com/danielededo/cashato): local-first platform for your own bank data; statements normalized, deduplicated and categorized on your machine
+- [**activity-hub**](https://github.com/danielededo/activity-hub): self-hosted training log for FIT, TCX and GPX exports
+- [**gambit**](https://github.com/danielededo/gambit): chess in the browser against Stockfish, a friend on the same device, or via a 6-digit PIN ([live](https://gambit-gky7.onrender.com))
 
-**☁️ Cloud & Orchestration**
-
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kustomize" />
-
-**🐳 Containers & Runtime**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" alt="containerd" /> <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" />
-
-**🏗️ IaC & GitOps**
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" alt="OpenTofu" /> <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi" /> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" /> <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" alt="Tekton" />
-
-**💻 Languages & Frameworks**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-**🗄️ Data**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Daniele's GitHub stats" width="49%" /> <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| 🏃 **[activity-hub](https://github.com/danielededo/activity-hub)** | Self-hosted training log for FIT, TCX and GPX exports — training load, form and personal bests, all on your own machine | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
-| ♟️ **[gambit](https://github.com/danielededo/gambit)** | Online & offline chess in the browser: play Stockfish, a friend on the same device, or a game via 6-digit PIN — [**live demo**](https://gambit-gky7.onrender.com) | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Stockfish.js-2E8B57?style=flat-square" alt="Stockfish.js" /> |
-| 📐 **[scaffold](https://github.com/danielededo/scaffold)** | Language-agnostic template baseline for personal projects: licensing, governance, docs and contribution workflow | <img src="https://img.shields.io/badge/Template-6E7681?style=flat-square&logo=github&logoColor=white" alt="Template" /> |
-| 🔮 **[infinity-spheres](https://github.com/danielededo/infinity-spheres)** | Single-file Three.js scene: a glass tube swept along a self-intersecting curve, with marbles that bounce elastically through the open junctions | <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> |
-| 💰 **[cashato](https://github.com/danielededo/cashato)** | Local-first platform for your own bank data: multi-bank statements (PDF/CSV/XLSX) normalized, deduplicated and categorized by a local embedding model — nothing leaves your machine | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> |
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/224d631d-42b0-44a3-a71f-d9523b7ae253/public_url"><img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Certified — Professional Cloud Architect (verify on Credly)" /></a>
-
-*Previously certified:* <img src="https://img.shields.io/badge/Professional%20Cloud%20Security%20Engineer-6E7681?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Security Engineer (past)" /> <img src="https://img.shields.io/badge/Professional%20Cloud%20Database%20Engineer-6E7681?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Database Engineer (past)" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielededo/danielededo/output/github-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/danielededo/danielededo/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎯 Skills & Expertise
-
-- ☁️ **Cloud Architecture** — designing scalable, cost-aware platforms on Google Cloud
-- 🧱 **Platform Engineering** — golden paths, internal developer platforms, self-service infra
-- 🔁 **DevOps & CI/CD** — GitOps with Argo CD, pipelines with Tekton
-- 📜 **Infrastructure as Code** — Terraform & Pulumi, everything versioned
-- 🔭 **Observability** — metrics, logs and traces that actually get looked at
-- 🔐 **Security** — least privilege, supply-chain hygiene, policy as code
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/daniele-de-dominicis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/danielededo"><img src="https://img.shields.io/github/followers/danielededo?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow on GitHub" /></a>
-
-</div>
-
-<div align="center">
-
-*⭐ From [danielededo](https://github.com/danielededo)*
-
-</div>
+More on [danielededo.it](https://danielededo.it) · [LinkedIn](https://www.linkedin.com/in/daniele-de-dominicis/)

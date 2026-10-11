@@ -11,13 +11,13 @@ MSc in Computer Science and Engineering at Politecnico di Milano.
 
 #### Stack
 
-| | |
-| --- | --- |
-| Cloud & orchestration | <img src="assets/stack/google-cloud.svg" alt="Google Cloud" height="20" /> <img src="assets/stack/kubernetes.svg" alt="Kubernetes" height="20" /> <img src="assets/stack/helm.svg" alt="Helm" height="20" /> <img src="assets/stack/kustomize.svg" alt="Kustomize" height="20" /> |
-| Containers & runtime | <img src="assets/stack/docker.svg" alt="Docker" height="20" /> <img src="assets/stack/cloud-run.svg" alt="Cloud Run" height="20" /> |
-| IaC, GitOps & CI/CD | <img src="assets/stack/terraform.svg" alt="Terraform" height="20" /> <img src="assets/stack/opentofu.svg" alt="OpenTofu" height="20" /> <img src="assets/stack/pulumi.svg" alt="Pulumi" height="20" /> <img src="assets/stack/argo-cd.svg" alt="Argo CD" height="20" /> <img src="assets/stack/tekton.svg" alt="Tekton" height="20" /> <img src="assets/stack/github-actions.svg" alt="GitHub Actions" height="20" /> |
-| Languages & frameworks | <img src="assets/stack/python.svg" alt="Python" height="20" /> <img src="assets/stack/go.svg" alt="Go" height="20" /> <img src="assets/stack/typescript.svg" alt="TypeScript" height="20" /> <img src="assets/stack/fastapi.svg" alt="FastAPI" height="20" /> <img src="assets/stack/react.svg" alt="React" height="20" /> |
-| Data | <img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="20" /> <img src="assets/stack/mysql.svg" alt="MySQL" height="20" /> <img src="assets/stack/bigquery.svg" alt="BigQuery" height="20" /> <img src="assets/stack/redis.svg" alt="Redis" height="20" /> |
+<table>
+  <tr><td>Cloud &amp; orchestration</td><td><img src="assets/stack/google-cloud.svg" alt="Google Cloud" height="20" /> <img src="assets/stack/kubernetes.svg" alt="Kubernetes" height="20" /> <img src="assets/stack/helm.svg" alt="Helm" height="20" /> <img src="assets/stack/kustomize.svg" alt="Kustomize" height="20" /></td></tr>
+  <tr><td>Containers &amp; runtime</td><td><img src="assets/stack/docker.svg" alt="Docker" height="20" /> <img src="assets/stack/cloud-run.svg" alt="Cloud Run" height="20" /></td></tr>
+  <tr><td>IaC, GitOps &amp; CI/CD</td><td><img src="assets/stack/terraform.svg" alt="Terraform" height="20" /> <img src="assets/stack/opentofu.svg" alt="OpenTofu" height="20" /> <img src="assets/stack/pulumi.svg" alt="Pulumi" height="20" /> <img src="assets/stack/argo-cd.svg" alt="Argo CD" height="20" /> <img src="assets/stack/tekton.svg" alt="Tekton" height="20" /> <img src="assets/stack/github-actions.svg" alt="GitHub Actions" height="20" /></td></tr>
+  <tr><td>Languages &amp; frameworks</td><td><img src="assets/stack/python.svg" alt="Python" height="20" /> <img src="assets/stack/go.svg" alt="Go" height="20" /> <img src="assets/stack/typescript.svg" alt="TypeScript" height="20" /> <img src="assets/stack/fastapi.svg" alt="FastAPI" height="20" /> <img src="assets/stack/react.svg" alt="React" height="20" /></td></tr>
+  <tr><td>Data</td><td><img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="20" /> <img src="assets/stack/mysql.svg" alt="MySQL" height="20" /> <img src="assets/stack/bigquery.svg" alt="BigQuery" height="20" /> <img src="assets/stack/redis.svg" alt="Redis" height="20" /></td></tr>
+</table>
 
 #### Side projects
 
